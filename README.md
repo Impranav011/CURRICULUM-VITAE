@@ -1,5 +1,5 @@
 # CURRICULUM-VITAE
-<!DOCTYPE html>
+<html>
 <html lang="en">
   <head>
     
@@ -100,7 +100,7 @@
     <div>
     
     <b>Place:</b><p>New Panvel  </p>    
-    
+    <br>
     </div>
     </body>
    </html>
